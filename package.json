@@ -1,0 +1,14 @@
+{
+  "name": "stats-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "frontend mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i styles/input.css -o styles/output.css --watch"
+  },
+  "author": "Piyush Aggrwal",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
